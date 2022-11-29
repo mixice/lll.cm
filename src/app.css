@@ -1,0 +1,17 @@
+.btn {background-color: var(--orange);border-radius: 100px;font-weight: bold;color: var(--333);}
+.btn .ico {color: var(--333);}
+.foot a:hover {color: var(--orange);}
+
+@media (max-width: 640px) {
+    fold tt s {display: none !important;}
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+{
+  "name": "new",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "@types/jquery": "^3.5.14",
+    "less": "^4.1.3",
+    "svelte": "^3.49.0",
+    "svelte-preprocess-less": "^0.4.0",
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "uigg": "^1.1.14"
+  }
+}
