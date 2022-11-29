@@ -10,10 +10,13 @@ This template should help get you started developing with UIGG in Svelte in Vite
 
 ** install svelte**
 
-`npm create vite@latest myapp -- --template svelte
+```
+npm create vite@latest myapp -- --template svelte
 cd myapp
 npm install
-npm run dev`
+npm run dev
+
+```
 
 **install plug-ins**
 
