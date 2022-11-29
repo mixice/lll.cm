@@ -8,7 +8,14 @@ This template should help get you started developing with UIGG in Svelte in Vite
 
 ## plug-in
 
-**Please install the following plug-ins**
+** install svelte**
+
+`npm create vite@latest myapp -- --template svelte
+cd myapp
+npm install
+npm run dev`
+
+**install plug-ins**
 
 - UIGG `npm i uigg`
 - less `npm i less`
