@@ -9,7 +9,7 @@ const app = new App({
     target: document.getElementById('app'),
     props: {
 		logo: '/images/logo.svg',
-		copy: 'copyrights &copy; <a href="/">lll.cm</a>',
+		copy: 'copyrights &copy; <a href="/">lll.cm</a> 本站源码：<a href="https://github.com/mixice/lll.cm" target="_blank">github</a>',
 		consult: [
 			{descript: '部分内容付费',ico:'ico-circular-star',},
 			{descript: '可能需要翻墙',ico:'ico-earth',},
@@ -137,6 +137,7 @@ const app = new App({
 					{site: 'Venge', href: 'venge.io', pay: '', vpn: '', adult: '', info: '射击游戏'},
 					{site: '二维星际战争', href: '2starwar.top', pay: '', vpn: '', adult: '', info: '简笔画星际战争'},
 					{site: '在线CS', href: 'playcsol.com', pay: '', vpn: '', adult: '', info: '网页版CS'},
+					{site: '进化', href: 'g8hh.github.io/evolve', pay: '', vpn: '', adult: '', info: '生物进化文字游戏'},
 				],},
 			],},
 			{classfly: '音乐', href: 'music', ico: 'ico-music', link: [
@@ -343,6 +344,7 @@ const app = new App({
 					{site: 'BgSub', href: 'bgsub.cn', pay: '', vpn: '', adult: '', info: '消除或者替换图像背景'},
 					{site: 'ilovePDF', href: 'ilovepdf.com', pay: '', vpn: '', adult: '', info: 'PDF全格式转换'},
 					{site: 'PDFlux', href: 'pdflux.com', pay: '', vpn: '', adult: '', info: 'PDF文档内容识别提取'},
+					{site: 'Palette', href: 'palette.fm', pay: '', vpn: '', adult: '', info: '照片自动上色'},
 				],},
 				{connect: '音视频处理', href: 'tool-media',web: [
 					{site: '分秒帧', href: 'mediatrack.cn', pay: 'ture', vpn: '', adult: '', info: '音视频生产协作平台'},
@@ -374,6 +376,7 @@ const app = new App({
 					{site: '计算器套件', href: 'geogebra.org/calculator', pay: '', vpn: '', adult: '', info: '超级科学计算器'},
 					{site: '知春在线工具箱', href: 'zhichun.xyz', pay: '', vpn: '', adult: '', info: '保护隐私的在线工具'},
 					{site: 'Ele Types', href: 'eletypes.com', pay: '', vpn: '', adult: '', info: '在线打字练习工具'},
+					{site: '微工具', href: 'wetools.com', pay: '', vpn: '', adult: '', info: '开发者在线工具大全'},
 				],},
 			],},
 			{classfly: '摸鱼', href: 'idle', ico: 'ico-fish', link: [
@@ -400,7 +403,6 @@ const app = new App({
 			],},
 		],
 		link: [
-			{site: 'LLL导航', href: 'lll.cm', info: '及时行乐'},
 			{site: 'mixice', href: 'mixice.com', info: '众里寻他千百度'},
 			{site: 'UIGG', href: 'ui.gg', info: '静态前端框架'},
 			{site: '秒速科技', href: 'mssay.com', info: '网络服务供应商'},
