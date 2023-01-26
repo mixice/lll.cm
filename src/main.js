@@ -34,7 +34,6 @@ const app = new App({
 					{site: '蛋蛋赞影院', href: 'dandanzan10.top', pay: '', vpn: '', adult: '', info: '最新最全高清在线影院'},
 					{site: 'NO视频', href: 'novipnoad.com', pay: '', vpn: '', adult: '', info: '致力于最轻松的追剧体验'},
 					{site: 'APP影院', href: 'app.movie', pay: '', vpn: '', adult: '', info: '全网最全视频库'},
-					{site: '鸭奈飞电影', href: 'yanetflix.com', pay: '', vpn: '', adult: '', info: '专注于为国内用户提供免费的奈飞影剧'},
 					{site: '555电影', href: '555dy.vip', pay: '', vpn: '', adult: '', info: '最新Netflix新剧韩国电影免费在线观看'},
 					{site: 'YY影视', href: 'yyzone.net', pay: '', vpn: '', adult: '', info: '最新电影最新电视剧'},
 					{site: '天空影视', href: 'tkznp.com', pay: '', vpn: '', adult: '', info: '观看美化生活'},
