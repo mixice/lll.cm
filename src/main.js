@@ -402,7 +402,6 @@ const app = new App({
 			{site: '秒速科技', href: 'mssay.com', info: '网络服务供应商'},
 			{site: 'SVG 背景', href: 'svg.ee', info: '提供10KB以内的SVG背景'},
 			{site: 'MIX', href: 'mix.vc', info: '客户服务'},
-			{site: 'ICO', href: 'ico.im', info: '图标中心'},
 		],
 	}
 })

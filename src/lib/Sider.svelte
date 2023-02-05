@@ -24,7 +24,7 @@
 <style lang="less">
 	sider {width: 220px;height: 100%;position: fixed;left: 0;top: 0;background: repeating-radial-gradient(circle at 110% 80%, transparent 0, var(--000-1) 3px 3px, transparent 5px 10px) var(--sapphire);flex-direction: column;display: flex;
 		h1 {padding: 30px 0;color: transparent;
-			i {width: 100px;height: 100px;display: block;margin: auto;}
+			i {width: 80px;height: 80px;display: block;margin: auto;}
 			&:hover i {transform: rotateY(180deg);}
 		}
 		fold {color: white;height: 100%;flex: 1;overflow: auto;
@@ -49,7 +49,7 @@
 	@media (max-width: 640px) {
 		sider {width: .6rem;
 			h1 {padding: .2rem 0;
-				i {width: .6rem;height: .6rem;}
+				i {width: .5rem;height: .5rem;}
 			}
 			fold {
 				&::-webkit-scrollbar {width: 0;}
