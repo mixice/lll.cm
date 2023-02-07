@@ -43,7 +43,7 @@ const app = new App({
 					{site: '88影视网', href: '88hd.com', pay: '', vpn: '', adult: '', info: '电影在线观看'},
 					{site: 'COKEMV影视', href: 'cokemv.me', pay: '', vpn: '', adult: '', info: '蓝光在线无广告'},
 					{site: 'Hdmoli', href: 'hdmoli.com', pay: '', vpn: '', adult: '', info: '高品质在线影视'},
-					{site: '看韩剧', href: 'kan.cc', pay: '', vpn: '', adult: '', info: '最新韩剧'},
+					{site: '看韩剧', href: 'kan.cc', pay: '', vpn: 'ture', adult: '', info: '最新韩剧'},
 					{site: '泰剧网', href: 'taijuaa.com', pay: '', vpn: '', adult: '', info: '最新热门泰剧泰影免费在线看'},
 					{site: '低端影视', href: 'ddys.art', pay: '', vpn: '', adult: '', info: '超清在线视频站'},
 					{site: '在线之家', href: 'zxzj.pro', pay: '', vpn: '', adult: '', info: '在线观看最新美剧'},
@@ -59,6 +59,8 @@ const app = new App({
 					{site: 'HDmoli', href: 'hdmoli.com', pay: '', vpn: '', adult: '', info: '高品质在线影视'},
 					{site: '555电影', href: '555dd1.com', pay: '', vpn: '', adult: '', info: '最新Netflix电视剧'},
 					{site: '看片狂人', href: 'kpkuang.org', pay: '', vpn: '', adult: '', info: '影视大全'},
+					{site: '鸭奈飞影视', href: 'yanetflix.tv', pay: '', vpn: '', adult: '', info: '最新Netflix电视剧'},
+					{site: 'Nike影视网', href: 'ajeee.com', pay: '', vpn: '', adult: '', info: '经典电影电视剧'},
 				],},
 				{connect: '影视下载', href: 'movie-down',web: [
 					{site: '片库网', href: 'btnull.re', pay: '', vpn: '', adult: '', info: '资源非常全的影视站'},
