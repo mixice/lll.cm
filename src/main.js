@@ -11,9 +11,9 @@ const app = new App({
 		logo: '/images/logo.svg',
 		copy: 'copyrights &copy; <a href="/">lll.cm</a> 本站源码：<a href="https://github.com/mixice/lll.cm" target="_blank">github</a>',
 		consult: [
-			{descript: '部分内容付费',ico:'ico-circular-star',},
-			{descript: '可能需要翻墙',ico:'ico-earth',},
-			{descript: '包含16+内容',ico:'ico-circular-disable',},
+			{type: 'pay',descript: '部分内容付费',ico:'ico-circular-star',},
+			{type: 'vpn',descript: '可能需要翻墙',ico:'ico-earth',},
+			{type: 'adult',descript: '包含16+内容',ico:'ico-circular-disable',},
 		],
 		list: [
 			{classfly: '直播', href: 'live', ico: 'ico-aperture', link: [
@@ -43,7 +43,7 @@ const app = new App({
 					{site: '88影视网', href: '88hd.com', pay: '', vpn: '', adult: '', info: '电影在线观看'},
 					{site: 'COKEMV影视', href: 'cokemv.me', pay: '', vpn: '', adult: '', info: '蓝光在线无广告'},
 					{site: 'Hdmoli', href: 'hdmoli.com', pay: '', vpn: '', adult: '', info: '高品质在线影视'},
-					{site: '看韩剧', href: 'kan.cc', pay: '', vpn: 'ture', adult: '', info: '最新韩剧'},
+					{site: '看韩剧', href: 'kan.cc', pay: '', vpn: '', adult: '', info: '最新韩剧'},
 					{site: '泰剧网', href: 'taijuaa.com', pay: '', vpn: '', adult: '', info: '最新热门泰剧泰影免费在线看'},
 					{site: '低端影视', href: 'ddys.art', pay: '', vpn: '', adult: '', info: '超清在线视频站'},
 					{site: '在线之家', href: 'zxzj.pro', pay: '', vpn: '', adult: '', info: '在线观看最新美剧'},
@@ -63,7 +63,7 @@ const app = new App({
 					{site: 'Nike影视网', href: 'ajeee.com', pay: '', vpn: '', adult: '', info: '经典电影电视剧'},
 				],},
 				{connect: '影视下载', href: 'movie-down',web: [
-					{site: '片库网', href: 'btnull.re', pay: '', vpn: '', adult: '', info: '资源非常全的影视站'},
+					{site: '片库网', href: 'btnull.org', pay: '', vpn: '', adult: '', info: '资源非常全的影视站'},
 					{site: '豌豆PRO', href: 'wandou.pro', pay: '', vpn: '', adult: '', info: '影视下载'},
 					{site: 'BT之家', href: 'btbtt12.com', pay: '', vpn: '', adult: '', info: '分享快乐如此简单'},
 					{site: '迷客电影', href: 'mini4k.com', pay: '', vpn: '', adult: '', info: '最好的高清'},
@@ -96,7 +96,6 @@ const app = new App({
 			{classfly: '磁力', href: 'magnetic', ico: 'ico-link', link: [
 				{connect: '磁力搜索', href: 'magnetic-search',web: [
 					{site: '磁力狗', href: 'clg.cm', pay: '', vpn: '', adult: '', info: '懂你的搜索'},
-					{site: '老王磁力', href: 'laowangbo.xyz', pay: '', vpn: '', adult: '', info: '专业的磁力链接搜索引擎'},
 					{site: '磁力王', href: 'movih.com', pay: '', vpn: '', adult: '', info: '全球最大BT种子搜索引擎'},
 				],},
 			],},
@@ -410,7 +409,9 @@ const app = new App({
 
 export default app
 
-
+$('.consult li.pay').on('click',function(){$('.list li a u i[data-pay="ture"]').parents('li').toggle()})
+$('.consult li.vpn').on('click',function(){$('.list li a u i[data-vpn="ture"]').parents('li').toggle()})
+$('.consult li.adult').on('click',function(){$('.list li a u i[data-adult="ture"]').parents('li').toggle()})
 
 
 

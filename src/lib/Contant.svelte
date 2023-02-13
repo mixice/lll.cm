@@ -7,8 +7,8 @@
 
 <contant>
 	<div class="consult">
-		{#each consult as { descript, ico }}
-			<li><i class="ico {ico}"></i>{descript}</li>
+		{#each consult as { type, descript, ico }}
+			<li class="{type}"><i class="ico {ico}"></i><span>{descript}</span><o class="checkbox-done active"></o></li>
 		{/each}
 	</div>
 	{#each list as { classfly, href, ico, link }}
@@ -53,8 +53,11 @@
 		h5 {padding: 10px 0;margin: 10px;}
 	}
 	.consult {display: flex;align-items: center;justify-content: center;background-color: var(--eee);padding: 10px;
-		li {display: flex;align-items: center;justify-content: center;padding: 20px;transition-duration: 0s;
-			i {margin: 0 10px 0 0;}
+		li {display: flex;align-items: center;justify-content: center;padding: 20px;transition-duration: 0s;cursor: pointer;
+			i,o {display: block;margin: auto;}
+			span {padding: 0 10px;}
+			o {color: var(--ccc);}
+			&:hover o {color: var(--color);}
 		}
 	}
 	.list {
@@ -103,7 +106,8 @@
 		}
 		.consult {padding: .1rem;
 			li {display: block;padding: .2rem;
-				i {margin: 0 auto .1rem;display: block;font-size: .48rem;}
+				i {font-size: .48rem;}
+				span {padding: .1rem 0;display: block;}
 			}
 		}
 		.list li {padding: .1rem;
