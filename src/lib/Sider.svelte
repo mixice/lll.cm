@@ -16,7 +16,7 @@
 		{/each}
 	</fold>
 	<div class="btn-flex">
-		<a href="http://wpa.qq.com/msgrd?v=3&uin=544490&site=qq&menu=yes" class="btn" target="_blank"><i class="ico ico-qq"></i></a>
+		<a href="//wpa.qq.com/msgrd?v=3&uin=544490&site=qq&menu=yes" class="btn" target="_blank"><i class="ico ico-qq"></i></a>
 		<a href="mailto:mixice@mixice.com" class="btn" target="_blank"><i class="ico ico-mail"></i></a>
 	</div>
 </sider>

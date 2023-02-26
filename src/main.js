@@ -9,7 +9,7 @@ const app = new App({
     target: document.getElementById('app'),
     props: {
 		logo: '/images/logo.svg',
-		copy: 'copyrights &copy; <a href="/">lll.cm</a> 本站源码：<a href="https://github.com/mixice/lll.cm" target="_blank">github</a>',
+		copy: 'copyrights &copy; <a href="/">lll.cm</a> 本站源码：<a href="//github.com/mixice/lll.cm" target="_blank">github</a>',
 		consult: [
 			{type: 'pay',descript: '部分内容付费',ico:'ico-circular-star',},
 			{type: 'vpn',descript: '可能需要翻墙',ico:'ico-earth',},

@@ -17,7 +17,7 @@
 			<h5 id="{href}">{connect}</h5>
 			<div class="list">
 				{#each web as { site, href, pay, vpn, adult, info }}
-					<li><a href="http://{href}?link=lll.cm" target="_blank">
+					<li><a href="//{href}?link=lll.cm" target="_blank">
 						<u>
 							<i data-pay="{pay}" class="ico ico-circular-star"></i>
 							<i data-vpn="{vpn}" class="ico ico-earth"></i>
@@ -34,7 +34,7 @@
 		<h5>链接</h5>
 		<ul>
 			{#each link as { site, href, info }}
-				<li><a href="http://{href}?link=lll.cm" title="{info}" target="_blank">{site}</a></li>
+				<li><a href="//{href}?link=lll.cm" title="{info}" target="_blank">{site}</a></li>
 			{/each}
 		</ul>
 	</div>
