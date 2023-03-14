@@ -365,6 +365,7 @@ const app = new App({
 					{site: '剪映', href: 'lv.ulikecam.com', pay: '', vpn: '', adult: '', info: '抖音剪辑软件'},
 					{site: 'OBS Studio', href: 'obsproject.com', pay: '', vpn: '', adult: '', info: '免费的录屏和直播软件'},
 					{site: '歌叽歌叽', href: 'gejigeji.kugou.com', pay: '', vpn: '', adult: '', info: '虚拟歌手歌曲创作软件'},
+					{site: 'vocalremover', href: 'vocalremover.org', pay: '', vpn: '', adult: '', info: '超强声音处理器'},
 				],},
 				{connect: '小工具', href: 'tool-min',web: [
 					{site: '草料二维码', href: 'cli.im', pay: 'ture', vpn: '', adult: '', info: '老牌二维码创意工具'},
