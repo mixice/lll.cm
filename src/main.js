@@ -186,6 +186,7 @@ const app = new App({
 					{site: '小众软件', href: 'appinn.com', pay: '', vpn: '', adult: '', info: '分享免费小巧实用有趣绿色的软件'},
 					{site: '异次元软件世界', href: 'iplaysoft.com', pay: '', vpn: '', adult: '', info: '软件改变生活'},
 					{site: 'Windows Apps', href: 'amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn', pay: '', vpn: '', adult: '', info: ' Windows 绝妙项目'},
+					{site: 'FreeCAD', href: 'freecad.org', pay: '', vpn: '', adult: '', info: ' 免费且强大的CAD绘图工具'},
 				],},
 			],},
 			{classfly: '素材', href: 'material', ico: 'ico-knowledge', link: [
@@ -224,6 +225,7 @@ const app = new App({
 					{site: 'Yandex', href: 'yandex.com/images', pay: '', vpn: 'ture', adult: '', info: '以图搜图'},
 					{site: 'Free3dicon', href: 'free3dicon.com', pay: '', vpn: '', adult: '', info: '免费3D'},
 					{site: '小洋丁插画', href: 'xiaonail.com', pay: 'ture', vpn: '', adult: '', info: '可定制的插画组件'},
+					{site: 'Free high resolution photography', href: 'lifeofpix.com', pay: 'ture', vpn: '', adult: '', info: '生活艺术摄影'},
 				],},
 				{connect: '音频素材', href: 'material-audio',web: [
 					{site: '爱给网', href: 'aigei.com', pay: 'ture', vpn: '', adult: '', info: '免费用户限制下载次数'},
@@ -231,6 +233,7 @@ const app = new App({
 					{site: 'MixKit', href: 'mixkit.co/free-stock-music', pay: '', vpn: 'ture', adult: '', info: '大部分免费'},
 					{site: '站长之家', href: 'sc.chinaz.com/yinxiao', pay: 'ture', vpn: '', adult: '', info: '音效下载'},
 					{site: 'Sampld', href: 'open.sampld.app', pay: '', vpn: '', adult: '', info: '免费商用音乐片段素材库'},
+					{site: 'NoCopyrightSounds', href: 'ncs.io', pay: '', vpn: '', adult: '', info: '来自英国的免费音乐库'},
 				],},
 				{connect: '视频素材', href: 'material-video',web: [
 					{site: '视频特效下载', href: 'videocopilot.net.cn', pay: '', vpn: '', adult: '', info: '主要是AE资源'},
