@@ -20,7 +20,6 @@ const app = new App({
 				{connect: '电视直播', href: 'live-tv',web: [
 					{site: 'CCTV', href: 'tv.cctv.com/live', pay: '', vpn: '', adult: '', info: 'CCTV节目官网'},
 					{site: '芒果TV', href: 'live.mgtv.com', pay: 'ture', vpn: '', adult: '', info: '芒果TV直播频道'},
-					{site: '电视眼', href: 'tvyan.com', pay: '', vpn: '', adult: '', info: '网络电视直播网'},
 					{site: '好趣网', href: 'tv.haoqu99.com', pay: '', vpn: '', adult: '', info: '2000套高清网络电视直播在线观看'},
 					{site: '看全球', href: 'tvquanqiu.com', pay: '', vpn: '', adult: '', info: '世界各国电视台直播在线观看'},
 				],},
@@ -28,7 +27,6 @@ const app = new App({
 					{site: 'Just Live', href: 'live.yj1211.work', pay: '', vpn: '', adult: '', info: '最新推荐直播'},
 					{site: '斗鱼', href: 'douyu.com', pay: 'ture', vpn: '', adult: '', info: '斗鱼游戏直播'},
 					{site: '虎牙', href: 'huya.com', pay: 'ture', vpn: '', adult: '', info: '虎牙游戏直播'},
-					{site: '花椒', href: 'huajiao.com', pay: 'ture', vpn: '', adult: '', info: '花椒直播'},
 				],},
 			],},
 			{classfly: '影视', href: 'movie', ico: 'ico-movie', link: [
@@ -59,7 +57,6 @@ const app = new App({
 					{site: '影视工场', href: 'ysgc.fun', pay: '', vpn: '', adult: '', info: '免费在线观看电影电视剧'},
 					{site: 'OK电影院', href: 'okdyy.com', pay: '', vpn: '', adult: '', info: '最新电影免费看片'},
 					{site: '高清MP4', href: 'm.mp4pa.com', pay: '', vpn: '', adult: '', info: '电影电视剧'},
-					{site: '番薯影视', href: 'ys900.com', pay: '', vpn: '', adult: '', info: '免费电影在线观看'},
 					{site: 'APP影院', href: 'appmovie.cc', pay: '', vpn: '', adult: '', info: '全网最全视频库'},
 					{site: '美剧行星', href: 'nfyingshi.com', pay: '', vpn: '', adult: '', info: '如果生活很无趣但至少我可以陪你看剧'},
 					{site: '恐怖世界', href: '840f.com', pay: '', vpn: '', adult: '', info: '最新鬼片电影大全'},
@@ -89,15 +86,11 @@ const app = new App({
 				{connect: '漫画', href: 'comic-cartoon',web: [
 					{site: '动漫之家', href: 'dmzj.com', pay: '', vpn: '', adult: '', info: '在线漫画原创漫画'},
 					{site: 'DM5漫画人', href: 'dm5.com', pay: '', vpn: '', adult: '', info: '为看漫画的人而'},
-					{site: '搜漫', href: 'soman.com', pay: '', vpn: '', adult: '', info: '一站式漫画搜索引擎'},
-					{site: 'COCOMANGA', href: 'cocomanga.com', pay: '', vpn: '', adult: '', info: '提供优质的漫画阅读体验'},
-					{site: '57漫画网', href: 'wuqimh.com', pay: '', vpn: '', adult: '', info: '更新最快的漫画网'},
 				],},
 			],},
 			{classfly: '磁力', href: 'magnetic', ico: 'ico-link', link: [
 				{connect: '磁力搜索', href: 'magnetic-search',web: [
-					{site: '磁力狗', href: 'clg.cm', pay: '', vpn: '', adult: '', info: '懂你的搜索'},
-					{site: '磁力王', href: 'movih.com', pay: '', vpn: '', adult: '', info: '全球最大BT种子搜索引擎'},
+					{site: '磁力皇', href: 'movih.com', pay: '', vpn: '', adult: '', info: '全球最大BT种子搜索引擎'},
 				],},
 			],},
 			{classfly: '网盘', href: 'dropbox', ico: 'ico-server', link: [
@@ -122,7 +115,6 @@ const app = new App({
 			],},
 			{classfly: '游戏', href: 'game', ico: 'ico-game-key', link: [
 				{connect: '在线游戏', href: 'game-online',web: [
-					{site: 'GamePix', href: 'gamepix.com', pay: '', vpn: '', adult: '', info: '速度很快的小游戏大全'},
 					{site: 'Crazy Games', href: 'crazygames.com', pay: '', vpn: '', adult: '', info: '游戏很多速度一般'},
 					{site: 'IO Games', href: 'iogames.space', pay: '', vpn: '', adult: '', info: '老牌小游戏大全'},
 					{site: 'Y8 Games', href: 'zh.y8.com', pay: '', vpn: '', adult: '', info: '卡成狗要不是看他域名叼早删掉了'},
@@ -144,7 +136,6 @@ const app = new App({
 					{site: 'TAMING', href: 'taming.io', pay: '', vpn: '', adult: '', info: '生存大作战'},
 					{site: 'Venge', href: 'venge.io', pay: '', vpn: '', adult: '', info: '射击游戏'},
 					{site: '二维星际战争', href: '2starwar.top', pay: '', vpn: '', adult: '', info: '简笔画星际战争'},
-					{site: '在线CS', href: 'playcsol.com', pay: '', vpn: '', adult: '', info: '网页版CS'},
 					{site: '进化', href: 'g8hh.github.io/evolve', pay: '', vpn: '', adult: '', info: '生物进化文字游戏'},
 				],},
 			],},
@@ -155,15 +146,12 @@ const app = new App({
 				{connect: '音乐资源', href: 'music-down',web: [
 					{site: '魔迷士音乐', href: 'momishi.com', pay: '', vpn: '', adult: '', info: '无损音乐下载'},
 					{site: '百乐米', href: 'bailemi.com', pay: '', vpn: '', adult: '', info: '专注于分享好听稀有音乐'},
-					{site: '下歌吧音乐下载', href: 'music.y444.cn', pay: '', vpn: '', adult: '', info: '免费提供音乐在线试听下载服务'},
-					{site: '无名音乐', href: 'thewind.xyz', pay: '', vpn: '', adult: '', info: '音乐搜索下载神器'},
 				],},
 			],},
 			{classfly: '图片', href: 'image', ico: 'ico-image', link: [
 				{connect: '壁纸', href: 'image-wallpaper',web: [
 					{site: 'Wallhaven', href: 'wallhaven.cc', pay: '', vpn: '', adult: 'ture', info: '著名壁纸平台注册后有惊喜'},
 					{site: 'Wallpaper Scraft', href: 'wallpaperscraft.com', pay: '', vpn: '', adult: '', info: '速度一般的壁纸平台'},
-					{site: 'Wallroom', href: 'wallroom.io', pay: '', vpn: '', adult: '', info: '速度一般'},
 					{site: '天堂图片网', href: 'ivsky.com', pay: '', vpn: '', adult: '', info: '优质订阅分类型壁纸平台'},
 					{site: 'I Love Papers', href: 'ilovepapers.com', pay: '', vpn: '', adult: '', info: '图片质量一般'},
 					{site: 'Desktop Wallpapers', href: 'wallpapermaiden.com', pay: '', vpn: '', adult: '', info: '提供多种格式的壁纸平台'},
@@ -206,7 +194,6 @@ const app = new App({
 					{site: 'The Pattern Library', href: 'thepatternlibrary.com', pay: '', vpn: '', adult: '', info: '提供PNG格式的背景图'},
 					{site: '无版权素材', href: 'pixabay.com/zh/photos', pay: '', vpn: '', adult: '', info: '无版权图片素材'},
 					{site: 'FreePik', href: 'freepik.com', pay: 'ture', vpn: '', adult: '', info: '大部分免费的素材库'},
-					{site: '365PSD', href: '365psd.com', pay: '', vpn: '', adult: '', info: '素材资源一般'},
 					{site: 'Pixeden', href: 'pixeden.com', pay: '', vpn: '', adult: '', info: '资源不错但下载麻烦'},
 					{site: 'Free Resources', href: 'freebiesbug.com', pay: '', vpn: 'ture', adult: '', info: '免费素材库下载有点慢'},
 					{site: 'GraphBerry', href: 'graphberry.com', pay: '', vpn: '', adult: '', info: '免费的设计源文件'},
@@ -226,7 +213,6 @@ const app = new App({
 					{site: 'Yandex', href: 'yandex.com/images', pay: '', vpn: 'ture', adult: '', info: '以图搜图'},
 					{site: 'Free3dicon', href: 'free3dicon.com', pay: '', vpn: '', adult: '', info: '免费3D'},
 					{site: '小洋丁插画', href: 'xiaonail.com', pay: 'ture', vpn: '', adult: '', info: '可定制的插画组件'},
-					{site: 'Free high resolution photography', href: 'lifeofpix.com', pay: 'ture', vpn: '', adult: '', info: '生活艺术摄影'},
 				],},
 				{connect: '音频素材', href: 'material-audio',web: [
 					{site: '爱给网', href: 'aigei.com', pay: 'ture', vpn: '', adult: '', info: '免费用户限制下载次数'},
@@ -246,7 +232,6 @@ const app = new App({
 					{site: 'Free Stock Video', href: 'mazwai.com', pay: '', vpn: '', adult: '', info: '免费专业视频资源'},
 					{site: 'Videvo', href: 'videvo.net', pay: '', vpn: '', adult: '', info: '英国免费视频素材'},
 					{site: '潮点视频', href: 'shipin520.com', pay: 'ture', vpn: '', adult: '', info: '版权高清视频素材下载'},
-					{site: 'Distill', href: 'wedistill.io', pay: '', vpn: 'ture', adult: '', info: '小众高清视频素材网站'},
 				],},
 				{connect: '其他素材', href: 'material-other',web: [
 					{site: 'Shapefest free 3D', href: 'shapefest.com', pay: '', vpn: 'ture', adult: '', info: '免费的3D图样素材内容少'},
@@ -262,7 +247,7 @@ const app = new App({
 					{site: 'Wannathis', href: 'wannathis.one', pay: 'ture', vpn: 'ture', adult: '', info: '高质量低格3D素材'},
 					{site: 'Free customizable 3D icons', href: 'vertex.im', pay: '', vpn: '', adult: '', info: '免费的3D图标库'},
 					{site: 'Health Icons', href: 'healthicons.org', pay: '', vpn: '', adult: '', info: '医疗行业图标'},
-					{site: 'iconshock', href: 'www.iconshock.com/vectoricons', pay: 'ture', vpn: '', adult: '', info: 'ICO定制'},
+					{site: 'iconshock', href: 'www.iconshock.com/vectoricons', pay: 'ture', vpn: 'ture', adult: '', info: 'ICO定制'},
 				],},
 			],},
 			{classfly: '开发', href: 'develop', ico: 'ico-alone-verification', link: [
@@ -345,8 +330,6 @@ const app = new App({
 					{site: '照片擦除元素', href: 'cleanup.pictures', pay: 'ture', vpn: '', adult: '', info: '照片擦除元素小工具'},
 					{site: 'Blob Animation', href: 'blobanimation.com', pay: '', vpn: '', adult: '', info: 'SVG球动画生成器'},
 					{site: 'Vector Halftone Maker', href: 'halftone.xoihazard.com', pay: '', vpn: '', adult: '', info: '点状图生成器'},
-					{site: 'Toonme', href: 'toonme.com', pay: '', vpn: '', adult: '', info: '卡通化照片'},
-					{site: 'VANCE AI', href: 'colorize.digital', pay: '', vpn: '', adult: '', info: '智能照片上色'},
 					{site: 'Imagetosketch', href: 'imagetosketch.com', pay: '', vpn: '', adult: '', info: '素描化你的照片'},
 					{site: 'Image to Cartoon', href: 'imagetocartoon.com', pay: '', vpn: '', adult: '', info: '照片转卡通'},
 					{site: 'ANIMATED DRAWINGS', href: 'sketch.metademolab.com/canvas', pay: '', vpn: '', adult: '', info: '将你作品中的角色动画化'},
@@ -381,7 +364,7 @@ const app = new App({
 					{site: '草料二维码', href: 'cli.im', pay: 'ture', vpn: '', adult: '', info: '老牌二维码创意工具'},
 					{site: '字体CDN', href: 'cdnfonts.com', pay: '', vpn: '', adult: '', info: '字体CDN服务资源只有英文字体'},
 					{site: '字体格式转换', href: 'everythingfonts.com/font-face', pay: '', vpn: '', adult: '', info: '讲电脑文字转换成WEB文字'},
-					{site: 'Google字体中文版', href: 'googlefonts.cn', pay: '', vpn: '', adult: '', info: 'Google字体中文镜像'},
+					{site: 'Google字体中文版', href: 'googlefonts.cn', pay: '', vpn: 'ture', adult: '', info: 'Google字体中文镜像'},
 					{site: '字体识别搜索', href: 'qiuziti.com', pay: 'ture', vpn: '', adult: '', info: '识别图片上的字体下载收费'},
 					{site: '酷家乐', href: 'kujiale.com', pay: 'ture', vpn: '', adult: '', info: '在线室内设计工具高级功能收费'},
 					{site: '油条工具箱', href: 'utils.fun', pay: '', vpn: '', adult: '', info: '在线工具箱'},
