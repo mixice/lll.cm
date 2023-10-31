@@ -61,6 +61,7 @@ const app = new App({
 					{site: '美剧行星', href: 'nfyingshi.com', pay: '', vpn: '', adult: '', info: '如果生活很无趣但至少我可以陪你看剧'},
 					{site: '恐怖世界', href: '840f.com', pay: '', vpn: '', adult: '', info: '最新鬼片电影大全'},
 					{site: '37OU电影网', href: '37ou.com', pay: '', vpn: '', adult: '', info: '高清电视剧在线观看'},
+					{site: '影视TV', href: 'yingshi.tv', pay: '', vpn: '', adult: '', info: '大陆剧美剧韩剧动漫免费高清无广告'},
 				],},
 				{connect: '影视下载', href: 'movie-down',web: [
 					{site: '片库网', href: 'btnull.org', pay: '', vpn: '', adult: '', info: '资源非常全的影视站'},
