@@ -47,7 +47,6 @@ const app = new App({
 					{site: '看片狂人', href: 'kpkuang.fun', pay: '', vpn: '', adult: '', info: '免费超前点播'},
 					{site: '影视工场', href: 'ysgc.fun', pay: '', vpn: '', adult: '', info: '免费在线观看电影电视剧'},
 					{site: '美剧行星', href: 'nfyingshi.com', pay: '', vpn: '', adult: '', info: '如果生活很无趣但至少我可以陪你看剧'},
-					{site: '37OU电影网', href: '37ou.com', pay: '', vpn: '', adult: '', info: '高清电视剧在线观看'},
 					{site: '影视TV', href: 'yingshi.tv', pay: '', vpn: '', adult: '', info: '大陆剧美剧韩剧动漫免费高清无广告'},
 					{site: 'LIBVIO', href: 'libvio.pro', pay: '', vpn: '', adult: '', info: '电影电视剧'},
 					{site: '在线之家', href: 'zxzja.com', pay: '', vpn: '', adult: '', info: '在线观看最新美剧'},
@@ -101,12 +100,12 @@ const app = new App({
 			],},
 			{classfly: '网盘', href: 'dropbox', ico: 'ico-server', link: [
 				{connect: '网盘空间', href: 'dropbox-box',web: [
-					{site: '阿里云盘', href: 'aliyundrive.com', pay: 'ture', vpn: '', adult: '', info: '不限速新用户100G'},
+					{site: '阿里云盘', href: 'aliyundrive.com', pay: 'ture', vpn: '', adult: '', info: '新用户100G'},
 					{site: '天翼云盘', href: 'cloud.189.cn', pay: 'ture', vpn: '', adult: '', info: '不限速电信用户10T'},
 					{site: '蓝奏云', href: 'lanzoux.com', pay: 'ture', vpn: '', adult: '', info: '限制上传不限下载'},
-					{site: '123云盘', href: '123pan.com', pay: 'ture', vpn: '', adult: '', info: '不限速新用户2T'},
+					{site: '123云盘', href: '123pan.com', pay: 'ture', vpn: '', adult: '', info: '新用户2T'},
 					{site: 'Gofile', href: 'gofile.io', pay: 'ture', vpn: 'ture', adult: '', info: '免费文件分享但文件活跃度低会被删除'},
-					{site: 'MUSE文件传输', href: 'musetransfer.com', pay: 'ture', vpn: '', adult: '', info: '临时分享比较好用'},
+					{site: 'MUSE文件传输', href: 'musetransfer.com', pay: 'ture', vpn: '', adult: '', info: '速度快，临时分享比较好用'},
 					{site: '图仓', href: 'tucang.cc', pay: '', vpn: '', adult: '', info: '据说不丢图'},
 					{site: 'File Doge', href: 'filedoge.com', pay: 'ture', vpn: '', adult: '', info: '匿名文件分享平台适合临时用'},
 					{site: 'Amazon CloudDrive', href: 'amazon.com/clouddrive', pay: 'ture', vpn: 'ture', adult: '', info: '上传快下载慢新用户5G'},
@@ -152,6 +151,9 @@ const app = new App({
 			{classfly: '音乐', href: 'music', ico: 'ico-music', link: [
 				{connect: '在线音乐', href: 'music-online',web: [
 					{site: 'Audiomack', href: 'audiomack.com', pay: '', vpn: 'ture', adult: 'ture', info: '因为不限制内容现在需要梯子才能访问'},
+					{site: '酷狗', href: 'kugou.com', pay: 'ture', vpn: '', adult: '', info: '就是歌多'},
+					{site: 'QQ音乐', href: 'y.qq.com', pay: 'ture', vpn: '', adult: '', info: '千万正版音乐'},
+					{site: '网易云音乐', href: 'music.163.com', pay: 'ture', vpn: '', adult: '', info: '精准推荐'},
 				],},
 				{connect: '音乐资源', href: 'music-down',web: [
 					{site: '无损音乐吧', href: 'dtshot.com', pay: '', vpn: '', adult: '', info: '无损音乐下载'},
