@@ -65,8 +65,9 @@ const app = new App({
 				],},
 				{connect: '影视下载', href: 'movie-down',web: [
 					{site: '片库网', href: 'btnull.org', pay: '', vpn: '', adult: '', info: '资源非常全的影视站'},
-					{site: 'BT之家', href: 'btbtt12.com', pay: '', vpn: '', adult: '', info: '分享快乐如此简单'},
-					{site: '迷客电影', href: 'mini4k.com', pay: '', vpn: '', adult: '', info: '最好的高清'},
+					{site: '阳光电影', href: 'ygdy8.net', pay: '', vpn: '', adult: '', info: '新片速递'},
+					{site: '电影天堂', href: 'dytt89.com', pay: '', vpn: '', adult: '', info: '高清首发'},
+					{site: '电影天堂', href: 'dytt99.com', pay: '', vpn: '', adult: '', info: '最新高清电影'},
 				],},
 				{connect: '影视搜索', href: 'movie-search',web: [
 					{site: '茶杯狐', href: 'cupfox.app', pay: '', vpn: '', adult: '', info: '努力让找电影变得简单'},
