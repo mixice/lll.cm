@@ -57,7 +57,7 @@ const app = new App({
 					{site: '真不卡影院', href: 'bkyb.net', pay: '', vpn: '', adult: '', info: '最新电视剧'},
 				],},
 				{connect: '影视下载', href: 'movie-down',web: [
-					{site: '片库网', href: 'btnull.org', pay: '', vpn: '', adult: '', info: '资源非常全的影视站'},
+					{site: '观影', href: 'gying.net', pay: '', vpn: '', adult: '', info: '资源非常全的影视站'},
 					{site: '阳光电影', href: 'ygdy8.net', pay: '', vpn: '', adult: '', info: '新片速递'},
 					{site: '电影天堂', href: 'dytt89.com', pay: '', vpn: '', adult: '', info: '高清首发'},
 					{site: '电影天堂', href: 'dytt99.com', pay: '', vpn: '', adult: '', info: '最新高清电影'},
