@@ -415,7 +415,6 @@ const app = new App({
 			{site: '秒速科技', href: 'mssay.com', info: '网络服务供应商'},
 			{site: 'mixice', href: 'mixice.com', info: '众里寻他千百度'},
 			{site: 'SVG 背景', href: 'svg.ee', info: '提供10KB以内的SVG背景'},
-			{site: 'MIX', href: 'mix.vc', info: '客户服务'},
 			{site: 'SONY ALPHA', href: 'sony.im', info: 'SONY ALPHA'},
 			{site: 'VERY VISION', href: 'vv.chat', info: 'VERY VISION'},
 		],
