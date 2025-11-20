@@ -147,7 +147,6 @@ const app = new App({
 				],},
 				{connect: '音乐资源', href: 'music-down',web: [
 					{site: '无损音乐吧', href: 'dtshot.com', pay: '', vpn: '', adult: '', info: '无损音乐下载'},
-					{site: '下歌吧', href: 'xiageba.com', pay: '', vpn: '', adult: '', info: '全网音乐高品质'},
 				],},
 			],},
 			{classfly: '图片', href: 'image', ico: 'ico-image', link: [
