@@ -1,3 +1,4 @@
+// @ts-nocheck
 import 'uigg/uigg.css'
 import './app.css'
 
@@ -364,19 +365,6 @@ const app = new App({
 					{site: '小镜故事板', href: 'xjstoryboard.com', pay: '', vpn: '', adult: '', info: 'AI分镜创作'},
 					{site: 'TME studio', href: 'y.qq.com/tme_studio/', pay: '', vpn: '', adult: '', info: '音乐创作助手'},
 				],},
-				{connect: '人工智能', href: 'tool-ai',web: [
-					{site: 'Deep Seek', href: 'deepseek.com', pay: '', vpn: '', adult: '', info: 'AI热度第一'},
-					{site: 'ChatGPT', href: 'chat.openai.com', pay: 'ture', vpn: 'ture', adult: '', info: 'AI创世'},
-					{site: '扣子', href: 'coze.cn', pay: '', vpn: '', adult: '', info: 'AI智能体开发平台'},
-					{site: '豆包', href: 'doubao.com', pay: '', vpn: '', adult: '', info: '抖音旗下AI智能助手'},
-					{site: 'Akuma', href: 'akuma.ai', pay: 'ture', vpn: 'ture', adult: '', info: 'AI绘画'},
-					{site: '度加创作工具', href: 'aigc.baidu.com', pay: '', vpn: '', adult: '', info: '百度AIGC创作平台'},
-					{site: '天工AI', href: 'tiangong.cn', pay: '', vpn: '', adult: '', info: '全能AI助手'},
-					{site: '既梦', href: 'dreamina.jianying.com/ai-tool', pay: '', vpn: '', adult: '', info: 'AI绘图视频助手'},
-					{site: 'Stable video', href: 'stablevideo.com', pay: '', vpn: '', adult: '', info: '视频AI生成'},
-					{site: 'XAI', href: 'x.ai', pay: '', vpn: '', adult: '', info: '推特AI助手'},
-					{site: 'Krea', href: 'krea.ai', pay: '', vpn: 'ture', adult: '', info: 'AI绘画'},
-				],},
 				{connect: '小工具', href: 'tool-min',web: [
 					{site: '草料二维码', href: 'cli.im', pay: 'ture', vpn: '', adult: '', info: '老牌二维码创意工具'},
 					{site: '字体CDN', href: 'cdnfonts.com', pay: '', vpn: '', adult: '', info: '字体CDN服务资源只有英文字体'},
@@ -391,6 +379,37 @@ const app = new App({
 					{site: '自由钢琴', href: 'autopiano.cn', pay: '', vpn: '', adult: '', info: '在线钢琴'},
 					{site: 'Ele Types', href: 'eletypes.com', pay: '', vpn: '', adult: '', info: '在线打字练习工具'},
 					{site: '微工具', href: 'wetools.com', pay: '', vpn: '', adult: '', info: '开发者在线工具大全'},
+				],},
+			],},
+			{classfly: 'AI', href: 'ai', ico: 'ico-bilibili', link: [
+				{connect: 'AI对话', href: 'ai-chat',web: [
+					{site: 'Deep Seek', href: 'deepseek.com', pay: '', vpn: '', adult: '', info: 'AI热度第一'},
+					{site: 'ChatGPT', href: 'chat.openai.com', pay: 'ture', vpn: 'ture', adult: '', info: 'AI创世'},
+					{site: '扣子', href: 'coze.cn', pay: '', vpn: '', adult: '', info: 'AI智能体开发平台'},
+					{site: '豆包', href: 'doubao.com', pay: '', vpn: '', adult: '', info: '抖音旗下AI智能助手'},
+					{site: '度加创作工具', href: 'aigc.baidu.com', pay: '', vpn: '', adult: '', info: '百度AIGC创作平台'},
+					{site: '天工AI', href: 'tiangong.cn', pay: '', vpn: '', adult: '', info: '全能AI助手'},
+					{site: 'XAI', href: 'x.ai', pay: '', vpn: '', adult: '', info: '推特AI助手'},
+					{site: '清言', href: 'chatglm.cn', pay: 'ture', vpn: '', adult: '', info: 'AI学习搭子'},
+					{site: 'CodeBuddy', href: 'codebuddy.cn', pay: 'ture', vpn: '', adult: '', info: '腾讯云代码助手'},
+					{site: 'Gemini', href: 'gemini.google.com/app', pay: 'ture', vpn: '', adult: '', info: '谷歌AI平台'},
+					{site: 'MIMO', href: 'mimo.xiaomi.com', pay: 'ture', vpn: '', adult: '', info: '小米大模型'},
+				],},
+				{connect: 'AI视频', href: 'ai-video',web: [
+					{site: '豆包', href: 'doubao.com', pay: '', vpn: '', adult: '', info: '抖音旗下AI智能助手'},
+					{site: 'Akuma', href: 'akuma.ai', pay: 'ture', vpn: 'ture', adult: '', info: 'AI绘画'},
+					{site: '既梦', href: 'dreamina.jianying.com/ai-tool', pay: 'ture', vpn: '', adult: '', info: 'AI绘图视频助手'},
+					{site: 'Stable video', href: 'stablevideo.com', pay: '', vpn: '', adult: '', info: '视频AI生成'},
+					{site: 'Krea', href: 'krea.ai', pay: 'ture', vpn: 'ture', adult: '', info: 'AI绘画'},
+					{site: '可灵', href: 'klingai.com', pay: 'ture', vpn: '', adult: '', info: '新一代AI创意生产平台'},
+					{site: '海螺AI', href: 'hailuoai.com', pay: 'ture', vpn: '', adult: '', info: '每一个想法都是大片'},
+					{site: 'VIDU AI', href: 'vidu.cn', pay: 'ture', vpn: '', adult: '', info: '全球AI领先内容生产平台'},
+					{site: '万象', href: 'tongyi.aliyun.com/wan', pay: 'ture', vpn: '', adult: '', info: '领先的AI视频图片生产平台'},
+					{site: 'Pixverse AI', href: 'pixverseai.org', pay: '', vpn: '', adult: '', info: '免费视频图片创作平台'},
+					{site: 'AI Story Generator', href: 'tostory.ai', pay: '', vpn: '', adult: '', info: '免费AI生成平台'},
+					{site: 'GAGA', href: 'gaga.art', pay: 'ture', vpn: '', adult: '', info: '音画同步视频模型'},
+					{site: 'CodeBuddy', href: 'codebuddy.cn', pay: 'ture', vpn: '', adult: '', info: '腾讯云代码助手'},
+					{site: 'SORA', href: 'openai.com/zh-Hans-CN/sora', pay: 'ture', vpn: '', adult: '', info: 'openai视频生成平台'},
 				],},
 			],},
 			{classfly: '资讯', href: 'idle', ico: 'ico-archive', link: [
