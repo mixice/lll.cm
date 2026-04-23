@@ -69,7 +69,7 @@ const app = new App({
 					{site: '剧王', href: 'ppat.top', pay: '', vpn: '', adult: '', info: '免费高清影视'},
 				],},
 				{connect: '影视下载', href: 'movie-down',web: [
-					{site: '观影', href: 'gying.net', pay: '', vpn: 'ture', adult: '', info: '资源非常全的影视站'},
+					{site: '观影', href: 'xn--wcv59z.com', pay: '', vpn: 'ture', adult: '', info: '资源非常全的影视站'},
 					{site: '电影天堂', href: 'dytt89.com', pay: '', vpn: '', adult: '', info: '高清首发'},
 					{site: 'BT之家', href: '1lou.cc', pay: '', vpn: '', adult: '', info: '最新高清电影'},
 					{site: '音范丝', href: 'www.yinfans.me', pay: '', vpn: '', adult: '', info: '精选4K蓝光原盘下载'},
