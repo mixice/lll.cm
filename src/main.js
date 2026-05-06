@@ -31,6 +31,7 @@ const app = new App({
 			],},
 			{classfly: '影视', href: 'movie', ico: 'ico-movie', link: [
 				{connect: '在线影视', href: 'movie-online',web: [
+					{site: '全民VIP视频', href: 'kptv.app', pay: '', vpn: '', adult: '', info: '高清无广告'},
 					{site: 'Gimy TV', href: 'gimytv.io', pay: '', vpn: '', adult: '', info: '剧迷线上看'},
 					{site: 'Voflix', href: 'voflix.fun', pay: '', vpn: '', adult: '', info: 'Voflix HD'},
 					{site: 'Vidhub', href: 'vidhub.tv', pay: '', vpn: '', adult: '', info: 'Vidhub影视库'},
@@ -71,8 +72,11 @@ const app = new App({
 				{connect: '影视下载', href: 'movie-down',web: [
 					{site: '观影', href: 'xn--wcv59z.com', pay: '', vpn: 'ture', adult: '', info: '资源非常全的影视站'},
 					{site: '电影天堂', href: 'dytt89.com', pay: '', vpn: '', adult: '', info: '高清首发'},
-					{site: 'BT之家', href: '1lou.cc', pay: '', vpn: '', adult: '', info: '最新高清电影'},
-					{site: '音范丝', href: 'www.yinfans.me', pay: '', vpn: '', adult: '', info: '精选4K蓝光原盘下载'},
+					{site: 'BT之家', href: '1lou.me', pay: '', vpn: '', adult: '', info: 'BT下载'},
+					{site: '人人电影网', href: 'rrdynb.com', pay: '', vpn: '', adult: '', info: '百度阿里网盘下载'},
+					{site: '迷客电影', href: 'mini4k.com', pay: '', vpn: '', adult: '', info: '超高清下载'},
+					{site: '片源网', href: 'pianyuan.org', pay: '', vpn: '', adult: '', info: '免费高清影视'},
+					{site: '狐狸君', href: 'foxjun.com', pay: '', vpn: '', adult: '', info: '高清影视资源下载'},
 				],},
 				{connect: '影视搜索', href: 'movie-search',web: [
 					{site: '茶杯狐', href: 'cupfox.app', pay: '', vpn: '', adult: '', info: '努力让找电影变得简单'},
@@ -140,8 +144,10 @@ const app = new App({
 					{site: '游民星空', href: 'gamersky.com', pay: '', vpn: '', adult: '', info: '大型单机游戏门户'},
 					{site: '游侠网', href: 'ali213.net', pay: '', vpn: '', adult: '', info: '单机游戏下载'},
 					{site: '3DM GAME', href: '3dmgame.com', pay: '', vpn: '', adult: '', info: '单机游戏社区'},
+					{site: 'XDGAME公益版', href: 'xdgame.io', pay: '', vpn: '', adult: '', info: '专注单机游戏试玩'},
 				],},
 				{connect: '小游戏', href: 'game-mini',web: [
+					{site: '怀旧游戏库', href: 'oldgames.space', pay: '', vpn: 'ture', adult: '', info: '怀旧小游戏在线玩耍'},
 					{site: 'Yorg 3 超级塔防', href: 'yorg3.io', pay: 'ture', vpn: '', adult: '', info: 'Yorg 3 超级塔防'},
 					{site: 'Yorg 超级塔防', href: 'yorg.io', pay: 'ture', vpn: '', adult: '', info: 'Yorg 超级塔防'},
 					{site: 'FC在线游戏', href: 'yikm.net', pay: '', vpn: '', adult: '', info: '小霸王其乐无穷'},
