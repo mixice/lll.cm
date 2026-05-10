@@ -77,6 +77,8 @@ const app = new App({
 					{site: '迷客电影', href: 'mini4k.com', pay: '', vpn: '', adult: '', info: '超高清下载'},
 					{site: '片源网', href: 'pianyuan.org', pay: '', vpn: '', adult: '', info: '免费高清影视'},
 					{site: '狐狸君', href: 'foxjun.com', pay: '', vpn: '', adult: '', info: '高清影视资源下载'},
+					{site: '4KBT', href: '4kbt.org', pay: '', vpn: '', adult: '', info: '蓝光高清电影下载'},
+					{site: '全民vip视频解析', href: 'kptv.app', pay: '', vpn: '', adult: '', info: '在线免费观看VIP影视'},
 				],},
 				{connect: '影视搜索', href: 'movie-search',web: [
 					{site: '茶杯狐', href: 'cupfox.app', pay: '', vpn: '', adult: '', info: '努力让找电影变得简单'},
@@ -429,12 +431,14 @@ const app = new App({
 			],},
 		],
 		link: [
+			{site: 'MIXICE', href: 'mixice.com', info: '众里寻他千百度'},
 			{site: 'UIGG', href: 'ui.gg', info: '静态前端框架'},
 			{site: '秒速科技', href: 'mssay.com', info: '网络服务供应商'},
-			{site: 'mixice', href: 'mixice.com', info: '众里寻他千百度'},
-			{site: 'SVG 背景', href: 'svg.ee', info: '提供10KB以内的SVG背景'},
+			{site: 'Mixice photographer', href: 'mixice.cn', info: '摄影'},
+			{site: 'SVG 背景', href: 'svg.ee', info: '10KB内SVG背景'},
 			{site: 'SONY ALPHA', href: 'sony.im', info: 'SONY ALPHA'},
 			{site: 'VERY VISION', href: 'vv.chat', info: 'VERY VISION'},
+			{site: '六六六导航', href: 'lll.cm', info: '生活导航'},
 		],
 	}
 })
