@@ -21,60 +21,49 @@
 		]},
 		{"classfly": "影视", "href": "movie", "ico": "ico-movie", "link": [
 			{"connect": "在线影视", "href": "movie-online","web": [
-				{"site": "全民VIP视频", "href": "kptv.app", "pay": "", "vpn": "", "adult": "", "info": "高清无广告"},
-				{"site": "Gimy TV", "href": "gimytv.io", "pay": "", "vpn": "", "adult": "", "info": "剧迷线上看"},
+				{"site": "Gimy TV", "href": "gimytw.cc", "pay": "", "vpn": "", "adult": "", "info": "剧迷线上看"},
+				{"site": "爱壹帆", "href": "iyf.tv", "pay": "", "vpn": "", "adult": "", "info": "海量高清视频免费在线观看"},
+				{"site": "努努影院", "href": "nnyy.in", "pay": "", "vpn": "", "adult": "", "info": "电影在线观看"},
+				{"site": "555影院", "href": "555k27.com", "pay": "", "vpn": "", "adult": "", "info": "新剧免费看"},
+				{"site": "小宝影院", "href": "xiaobaotv.com", "pay": "", "vpn": "", "adult": "", "info": "在线视频"},
+				{"site": "94580", "href": "94580.net", "pay": "", "vpn": "", "adult": "", "info": "电影电视剧"},
 				{"site": "Voflix", "href": "voflix.fun", "pay": "", "vpn": "", "adult": "", "info": "Voflix HD"},
-				{"site": "Vidhub", "href": "vidhub.tv", "pay": "", "vpn": "", "adult": "", "info": "Vidhub影视库"},
 				{"site": "看看屋", "href": "kkw361.com", "pay": "", "vpn": "", "adult": "", "info": "电影电视剧"},
-				{"site": "豌豆PRO", "href": "wdoo.net", "pay": "", "vpn": "", "adult": "", "info": "全网影视聚合搜索"},
 				{"site": "片吧影院", "href": "ipbpb.com", "pay": "", "vpn": "", "adult": "", "info": "最新电影电视剧免费影视网"},
 				{"site": "看片狂人", "href": "kpkuang.fun", "pay": "", "vpn": "", "adult": "", "info": "免费超前点播"},
 				{"site": "美剧行星", "href": "nfyingshi.com", "pay": "", "vpn": "", "adult": "", "info": "如果生活很无趣但至少我可以陪你看剧"},
 				{"site": "LIBVIO", "href": "libvio.cc", "pay": "", "vpn": "", "adult": "", "info": "电影电视剧"},
-				{"site": "爱迪影视", "href": "adys.tv", "pay": "", "vpn": "", "adult": "", "info": "最新韩剧电视剧"},
-				{"site": "大米星球", "href": "dmdcv.shop", "pay": "", "vpn": "", "adult": "", "info": "电影电视剧"},
-				{"site": "kimivod", "href": "kimivod.com", "pay": "", "vpn": "", "adult": "", "info": "免费电影线上看"},
 				{"site": "新版6V", "href": "www.66s6.net", "pay": "", "vpn": "", "adult": "", "info": "电影电视剧"},
 				{"site": "Novipnoad", "href": "novipnoad.net", "pay": "", "vpn": "", "adult": "", "info": "最新电视剧"},
 				{"site": "4K影院", "href": "4kvm.net", "pay": "", "vpn": "", "adult": "", "info": "高清在线"},
 				{"site": "小鸭看看", "href": "xiaoyakankan.com", "pay": "", "vpn": "", "adult": "", "info": "新剧免费看"},
-				{"site": "555电影", "href": "5557197.vip", "pay": "", "vpn": "", "adult": "", "info": "电影电视剧"},
-				{"site": "仙女影视", "href": "xnys.cc", "pay": "", "vpn": "", "adult": "", "info": "为集美、小仙女定制的影视大全"},
 				{"site": "网飞TV", "href": "wangfei.tv", "pay": "", "vpn": "", "adult": "", "info": "网飞影视剧集"},
 				{"site": "Gimy TV 剧迷", "href": "gimy.tv", "pay": "", "vpn": "", "adult": "", "info": "免费高清追剧"},
 				{"site": "枫林网", "href": "imaple8.co", "pay": "", "vpn": "", "adult": "", "info": "电影电视剧"},
 				{"site": "94i影城", "href": "94itv.app", "pay": "", "vpn": "", "adult": "", "info": "免费电影线上看"},
 				{"site": "网飞猫", "href": "ncat21.com", "pay": "", "vpn": "", "adult": "", "info": "电影电视剧"},
 				{"site": "奈飞工厂", "href": "netflixgc.com", "pay": "", "vpn": "", "adult": "", "info": "电影电视剧"},
-				{"site": "91毒舌电影", "href": "duse1.com", "pay": "", "vpn": "", "adult": "", "info": "免费电影线上看"},
-				{"site": "奈菲影视", "href": "nfyingshi.com", "pay": "", "vpn": "", "adult": "", "info": "如果生活很无趣但至少我可以陪你看剧"},
-				{"site": "注视影视", "href": "gaze.run", "pay": "", "vpn": "", "adult": "", "info": "免费电影线上看"},
-				{"site": "久久影视", "href": "putaojuchang.com", "pay": "", "vpn": "", "adult": "", "info": "最新电影电视剧在线观看"}
+				{"site": "奈菲影视", "href": "nfyingshi.com", "pay": "", "vpn": "", "adult": "", "info": "如果生活很无趣但至少我可以陪你看剧"}
 			]},
 			{"connect": "短剧", "href": "movie-short","web": [
 				{"site": "DIANLE", "href": "duanju55.com", "pay": "", "vpn": "", "adult": "", "info": "免费五五短剧"},
 				{"site": "短剧库", "href": "so.duanjuku.top", "pay": "", "vpn": "", "adult": "", "info": "短剧搜索"},
 				{"site": "红果短剧", "href": "novelquickapp.com", "pay": "", "vpn": "", "adult": "", "info": "热门短剧"},
 				{"site": "短剧狗", "href": "duanjugou.top", "pay": "", "vpn": "", "adult": "", "info": "全网免费短剧合集"},
-				{"site": "短剧号", "href": "duanjuhao.top", "pay": "", "vpn": "", "adult": "", "info": "一个免费的短剧网盘"},
-				{"site": "剧王", "href": "ppat.top", "pay": "", "vpn": "", "adult": "", "info": "免费高清影视"}
+				{"site": "短剧号", "href": "duanjuhao.top", "pay": "", "vpn": "", "adult": "", "info": "一个免费的短剧网盘"}
 			]},
 			{"connect": "影视下载", "href": "movie-down","web": [
 				{"site": "观影", "href": "xn--wcv59z.com", "pay": "", "vpn": "ture", "adult": "", "info": "资源非常全的影视站"},
-				{"site": "电影天堂", "href": "dytt89.com", "pay": "", "vpn": "", "adult": "", "info": "高清首发"},
 				{"site": "BT之家", "href": "1lou.me", "pay": "", "vpn": "", "adult": "", "info": "BT下载"},
 				{"site": "人人电影网", "href": "rrdynb.com", "pay": "", "vpn": "", "adult": "", "info": "百度阿里网盘下载"},
 				{"site": "迷客电影", "href": "mini4k.com", "pay": "", "vpn": "", "adult": "", "info": "超高清下载"},
 				{"site": "片源网", "href": "pianyuan.org", "pay": "", "vpn": "", "adult": "", "info": "免费高清影视"},
-				{"site": "狐狸君", "href": "foxjun.com", "pay": "", "vpn": "", "adult": "", "info": "高清影视资源下载"},
-				{"site": "4KBT", "href": "4kbt.org", "pay": "", "vpn": "", "adult": "", "info": "蓝光高清电影下载"},
-				{"site": "全民vip视频解析", "href": "kptv.app", "pay": "", "vpn": "", "adult": "", "info": "在线免费观看VIP影视"}
+				{"site": "4KBT", "href": "4kbt.org", "pay": "", "vpn": "", "adult": "", "info": "蓝光高清电影下载"}
 			]},
 			{"connect": "影视搜索", "href": "movie-search","web": [
 				{"site": "茶杯狐", "href": "cupfox.app", "pay": "", "vpn": "", "adult": "", "info": "努力让找电影变得简单"},
 				{"site": "茶杯虎", "href": "725998.com", "pay": "", "vpn": "", "adult": "", "info": "发现好电影"},
-				{"site": "MVCAT", "href": "mvcat.com", "pay": "", "vpn": "", "adult": "", "info": "电影推荐"},
-				{"site": "追影猫", "href": "zhuiyingmao3.com", "pay": "", "vpn": "", "adult": "", "info": "让追剧随心所欲，随时搜随心看"}
+				{"site": "MVCAT", "href": "mvcat.com", "pay": "", "vpn": "", "adult": "", "info": "电影推荐"}
 			]},
 			{"connect": "字幕", "href": "movie-subtitles","web": [
 				{"site": "字幕库", "href": "zimuku.org", "pay": "", "vpn": "", "adult": "", "info": "字幕下载网"},
@@ -84,7 +73,6 @@
 		{"classfly": "动漫", "href": "comic", "ico": "ico-naruto", "link": [
 			{"connect": "动画", "href": "comic-animation","web": [
 				{"site": "菲特动漫", "href": "fitacg.com", "pay": "", "vpn": "", "adult": "", "info": "动画新番动画音乐"},
-				{"site": "漫漫搜", "href": "msousou.vip", "pay": "", "vpn": "", "adult": "", "info": "让搜番变得更简单"},
 				{"site": "樱花动漫", "href": "yinghuadongman.me", "pay": "", "vpn": "", "adult": "", "info": "专注二次元ACG动漫"}
 			]},
 			{"connect": "漫画", "href": "comic-cartoon","web": [
@@ -95,9 +83,12 @@
 		]},
 		{"classfly": "磁力", "href": "magnetic", "ico": "ico-link", "link": [
 			{"connect": "磁力搜索", "href": "magnetic-search","web": [
-				{"site": "吴签磁力", "href": "wuqianun.top", "pay": "", "vpn": "", "adult": "", "info": "最懂你的磁力链接搜索引擎"},
-				{"site": "磁力柠檬", "href": "lemongb.top", "pay": "", "vpn": "", "adult": "", "info": "最懂你的磁力链接搜索引擎"},
-				{"site": "SkrBT", "href": "skrbtgb.top", "pay": "", "vpn": "", "adult": "", "info": "专业的种子搜索"}
+				{"site": "SkrBT", "href": "skrbtso.cc", "pay": "", "vpn": "", "adult": "", "info": "专业的种子搜索"},
+				{"site": "BT目录", "href": "sokankan.me", "pay": "", "vpn": "", "adult": "", "info": "BT搜索吃瓜黑料"},
+				{"site": "雨花阁", "href": "www.yuhuage007.xyz", "pay": "", "vpn": "", "adult": "", "info": "简单纯粹的搜索引擎"},
+				{"site": "磁力猫", "href": "clm45.com", "pay": "", "vpn": "", "adult": "", "info": "简单纯粹的搜索引擎"},
+				{"site": "Any BT", "href": "anybt.eth.link", "pay": "", "vpn": "", "adult": "", "info": "Any BT"},
+				{"site": "Torrent Kitty", "href": "torrentkitty.best/search", "pay": "", "vpn": "", "adult": "", "info": "Free Torrent"}
 			]}
 		]},
 		{"classfly": "网盘", "href": "dropbox", "ico": "ico-server", "link": [
